@@ -254,7 +254,7 @@ int main() {
     scanf("%d", &opcao); 
 
    
-// Usando SWITCH para a escolha do atributo a ser comparado.
+// Usando IF-ELSE e SWITCH para a  lógica de de comparação da escolha do atributo a ser comparado.
 // As cartas serão comparadas e será apontado a vencedora com o maior valor atribuído) ou será declarado o empate caso os dados sejam iguais.
 
     switch (opcao) {
